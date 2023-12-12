@@ -3,10 +3,10 @@
 A decentralized voting system using blockchain based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
 ### Team Members:
-- Parth Jaju 16010420032
-- Tanmay Jani 16010420033
-- Aryan Juyal 16010420035
-- Kshitij Kamble 16010420037
+- Advait Khandare
+- Nitai Kodkani 
+- Khushal Jhaveri 
+- Ashwin Nair
 
 ## Workflow
 
